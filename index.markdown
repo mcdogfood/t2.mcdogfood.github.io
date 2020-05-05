@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: pure
+title: Church Fenton Parish Council
 ---
+
+- Contact info
+- History of the Parish Council
+- Meeting Dates
+- Councillor Profiles
+- Declarations of Interest
+- Place of Meetings
+- Parish Map
+
