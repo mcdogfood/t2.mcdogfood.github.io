@@ -26,7 +26,7 @@
             <a class="pure-menu-heading" href="index.html">Home</a>
 
             <ul class="pure-menu-list">
-            {% for item in site.menus.header %}
+            {% for item in site.data.menus %}
               <li class="pure-menu-item">
                 <a class= "pure-menu-link" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
               </li>
@@ -45,8 +45,8 @@
               <div class="custom-menu-screen"></div>
               <center>
               <ul class="pure-menu-list">
-              {% for item in site.menus.header %}
-                {% if item.title == page.title %}
+              {% for item in site.data.menus %}
+                {% if item.url == page.url %}
                   <li class="pure-menu-item pure-menu-selected"><a href="{{ item.url }}" title="{{ item.tile }}" class="pure-menu-link">{{ item.title }}</a></li>
                 {% else %}
                   <li class="pure-menu-item"><a href="{{ item.url }}" title="{{ item.tile }}" class="pure-menu-link">{{ item.title }}</a></li>

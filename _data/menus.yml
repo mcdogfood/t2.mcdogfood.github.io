@@ -1,58 +1,55 @@
----
-header:
-  - url: /contactus.html
-    title: Contact Us
-    identifier: contactus
+- url: /contactus.html
+  title: Contact Us
+  identifier: contactus
 
-  - url: /agendas.html
-    title: Agendas
-    identifier: agendas
+- url: /agendas.html
+  title: Agendas
+  identifier: agendas
 
-  - url: /minutes.html
-    title: Minutes
-    identifier: minutes
+- url: /minutes.html
+  title: Minutes
+  identifier: minutes
 
-  - url: /highways.html
-    title: Highways
-    identifier: Highways
+- url: /highways.html
+  title: Highways
+  identifier: Highways
 
-  - url: /planning.html
-    title: Planning
-    identifier: planning
+- url: /planning.html
+  title: Planning
+  identifier: planning
 
-  - url: /finance.html
-    title: Finance
-    identifier: finance
+- url: /finance.html
+  title: Finance
+  identifier: finance
 
-  - url: /pc_assets.html
-    title: Assets
-    identifier: pc_assets
+- url: /pc_assets.html
+  title: Assets
+  identifier: pc_assets
 
-  - url: /policies.html
-    title: Policies
-    identifier: policies
+- url: /policies.html
+  title: Policies
+  identifier: policies
 
-  - url: /youth_council.html
-    title: Youth Council
-    identifier: youth_council
+- url: /youth_council.html
+  title: Youth Council
+  identifier: youth_council
 
-  - url: /current_projects.html
-    title: Current Projects
-    identifier: current_projects
+- url: /current_projects.html
+  title: Current Projects
+  identifier: current_projects
 
-  - url: /useful_links.html
-    title: Useful Links
-    identifier: useful_links
+- url: /useful_links.html
+  title: Useful Links
+  identifier: useful_links
 
-  - url: /your_say.html
-    title: Have Your Say
-    identifier: your_say
+- url: /your_say.html
+  title: Have Your Say
+  identifier: your_say
 
-  - url: /public_consultations.html
-    title: Consultations
-    identifier: public_consultations
+- url: /public_consultations.html
+  title: Consultations
+  identifier: public_consultations
 
-  - url: /news.html
-    title: News
-    identifier: news
----
+- url: /news.html
+  title: News
+  identifier: news
